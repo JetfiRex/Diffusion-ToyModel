@@ -1,0 +1,11 @@
+[project]
+name = "diffusiontoy"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "nomkl>=0.0.3",
+    "notebook>=7.4.5",
+    "smalldiffusion>=0.4.4",
+]

@@ -6,7 +6,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.pytest_cache
 
 .idea/
 .vscode/
@@ -16,9 +15,6 @@ __pycache__/
 .DS_Store
 
 *.pdf
-*.png
-*.jpeg
-*.jpg
 *.csv
 *.gz
 *.tar
